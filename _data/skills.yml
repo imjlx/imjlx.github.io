@@ -1,19 +1,12 @@
-- name: Software Engineer Keywords
+- name: Computer Science Keywords
   keywords:
-      - Java
-      - C++
       - Python
-      - Design Patterns
+      - C++
+      - Machine Learning
+      - Medical Image Processing
 
-- name: Mobile Developer Keywords
+- name: Quantitative Finance Keywords
   keywords:
-      - Android
-      - Reverse Engineering
+      - Quantitative Finance
+      - Financial Engineering
 
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
