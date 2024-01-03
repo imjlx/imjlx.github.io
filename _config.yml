@@ -27,6 +27,7 @@ github_username:  imjlx
 # Build settings
 markdown: kramdown
 theme: plainwhite
+remote_theme: samarsault/plainwhite-jekyll
 
 plainwhite:
   name: imjlx
