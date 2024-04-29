@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 博客的开始
+title: 关于这个博客
 categories: [杂文, ]
 tags: []
 description: 
@@ -8,8 +8,6 @@ fullview: false
 keywords:
 comments: true
 ---
-# 关于这个博客
-
 2024年到了，这里是imjlx的博客。
 
 一个多月前入坑了NAS，自己组装了一个NAS系统，逐渐入坑了所有相关的东西，包括软路由、服务器、HomeAssistent，那怎么能不自己搭建一个博客玩玩呢！（虽然目前还是在Github上）
